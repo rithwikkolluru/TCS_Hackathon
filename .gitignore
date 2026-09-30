@@ -7,3 +7,7 @@ __pycache__/
 venv/
 .DS_Store
 *.db
+node_modules/
+dist/
+.vite/
+
