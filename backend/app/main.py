@@ -30,6 +30,8 @@ from backend.app.api.feedback import router as feedback_router
 from backend.app.api.audit import router as audit_router
 from backend.app.api.reports import router as regional_router
 from backend.app.api.hybrid_ai import router as hybrid_ai_router
+from backend.app.api.dataset import router as dataset_router
+
 
 # Setup structured logging
 logging.basicConfig(
@@ -100,6 +102,8 @@ app.include_router(feedback_router, prefix="/api")
 app.include_router(audit_router, prefix="/api")
 app.include_router(regional_router, prefix="/api")
 app.include_router(hybrid_ai_router, prefix="/api")
+app.include_router(dataset_router, prefix="/api")
+
 
 
 @app.get("/health", tags=["Health"])

@@ -1,0 +1,15 @@
+service_category,target_wait_min,avg_wait_min,avg_service_min,bottleneck_risk,sla_compliance_pct,recommended_counters
+Loans - Payment and Sanctioning,15.0,28.4,24.5,CRITICAL,58.2,3
+Account Opening,12.0,22.1,18.2,HIGH,67.4,2
+KYC Related,10.0,17.5,12.8,HIGH,72.1,2
+Foreign Exchange,10.0,16.8,14.0,HIGH,74.0,1
+Wealth Management,15.0,16.2,26.0,MEDIUM,79.5,1
+Demand Draft,8.0,11.4,7.5,MEDIUM,82.3,1
+Cheque Clearance,8.0,10.2,6.8,MEDIUM,85.0,1
+Locker Services,10.0,9.8,11.2,LOW,89.2,1
+Deposit,6.0,7.4,5.1,LOW,91.5,2
+Withdrawal,5.0,6.2,4.2,LOW,93.0,2
+Debit Card,8.0,7.9,6.0,LOW,92.4,1
+Credit Card,8.0,8.5,7.1,LOW,90.1,1
+Insurance,12.0,11.8,15.4,LOW,88.6,1
+Government Schemes,10.0,13.2,11.6,MEDIUM,80.8,1

@@ -1,0 +1,9 @@
+branch_id,branch_name,city,state,tier,total_counters,active_counters,daily_avg_footfall,avg_wait_min,manager
+BR001,Hyderabad Central,Hyderabad,Telangana,Tier-1,12,10,485,18.4,Ramesh Sharma
+BR002,Hyderabad Kukatpally,Hyderabad,Telangana,Tier-1,14,11,520,22.1,Priya Reddy
+BR003,Secunderabad Station,Secunderabad,Telangana,Tier-1,10,8,390,16.8,Vikas Nair
+BR004,Warangal Main,Warangal,Telangana,Tier-2,8,6,295,14.2,Sunita Rao
+BR005,Vijayawada Commercial,Vijayawada,Andhra Pradesh,Tier-2,10,8,360,19.5,Kiran Kumar
+BR006,Karimnagar Market,Karimnagar,Telangana,Tier-2,6,5,240,12.8,Anil Goud
+BR007,Visakhapatnam Central,Visakhapatnam,Andhra Pradesh,Tier-1,11,9,440,17.6,Deepika Varma
+BR008,Tirupati Pilgrim Road,Tirupati,Andhra Pradesh,Tier-2,8,6,310,21.0,Srinivasulu M
