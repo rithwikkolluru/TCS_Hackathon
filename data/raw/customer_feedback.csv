@@ -1,0 +1,501 @@
+feedback_id,branch_id,timestamp,service_category,rating,comment
+FBK-5001,BR008,2026-08-25 11:55:46,Loans - Payment and Sanctioning,3,Need more working counters during lunch hour between 1 PM and 2 PM.
+FBK-5002,BR006,2026-07-21 13:09:31,Debit Card,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5003,BR004,2026-06-03 10:16:51,Withdrawal,5,Token system working very efficiently at Warangal Main.
+FBK-5004,BR007,2026-06-02 15:10:25,Debit Card,5,Token system working very efficiently at Visakhapatnam Central.
+FBK-5005,BR002,2026-06-15 12:10:48,Debit Card,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5006,BR005,2026-06-18 15:29:38,Account Opening,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5007,BR007,2026-07-15 10:21:58,Credit Card,5,Very fast service for Credit Card at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5008,BR002,2026-06-09 15:54:16,Account Opening,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5009,BR006,2026-08-19 11:17:42,Withdrawal,5,Token system working very efficiently at Karimnagar Main.
+FBK-5010,BR006,2026-07-13 10:52:22,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5011,BR008,2026-07-28 14:24:30,Money Transfer,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5012,BR006,2026-06-08 12:56:14,Money Transfer,5,Very fast service for Money Transfer at Karimnagar Main! Completed in under 10 minutes.
+FBK-5013,BR004,2026-08-05 09:56:36,Debit Card,5,Very fast service for Debit Card at Warangal Main! Completed in under 10 minutes.
+FBK-5014,BR006,2026-08-24 14:23:16,Withdrawal,5,Token system working very efficiently at Karimnagar Main.
+FBK-5015,BR008,2026-07-21 12:33:42,KYC Related,4,Smooth process for KYC Related. Good assistance provided by staff.
+FBK-5016,BR007,2026-06-19 14:37:33,Deposit,5,Very fast service for Deposit at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5017,BR003,2026-07-23 15:17:50,Withdrawal,5,Very fast service for Withdrawal at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5018,BR003,2026-07-11 10:18:02,KYC Related,5,Very fast service for KYC Related at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5019,BR008,2026-07-29 16:42:24,KYC Related,4,Smooth process for KYC Related. Good assistance provided by staff.
+FBK-5020,BR003,2026-06-25 12:01:32,KYC Related,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5021,BR004,2026-08-17 11:23:17,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5022,BR002,2026-08-24 11:34:02,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5023,BR004,2026-08-25 10:04:45,Money Transfer,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5024,BR002,2026-06-02 09:48:30,Account Opening,5,Very fast service for Account Opening at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5025,BR004,2026-06-08 13:07:01,Insurance,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5026,BR003,2026-07-14 10:28:37,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5027,BR002,2026-06-22 11:26:07,Deposit,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5028,BR003,2026-08-05 09:06:52,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5029,BR003,2026-08-18 13:29:33,Aadhaar Linking,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5030,BR007,2026-07-27 15:36:52,Debit Card,5,Token system working very efficiently at Visakhapatnam Central.
+FBK-5031,BR007,2026-06-04 15:49:17,Aadhaar Linking,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5032,BR001,2026-06-04 11:02:44,Withdrawal,5,Token system working very efficiently at Hyderabad Central.
+FBK-5033,BR007,2026-08-08 14:47:06,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5034,BR001,2026-07-21 12:55:12,Withdrawal,5,Very fast service for Withdrawal at Hyderabad Central! Completed in under 10 minutes.
+FBK-5035,BR004,2026-07-06 12:12:41,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5036,BR008,2026-07-01 11:32:47,KYC Related,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5037,BR002,2026-07-02 11:36:35,Account Opening,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5038,BR005,2026-07-17 10:18:48,Debit Card,5,Very fast service for Debit Card at Vijayawada Main! Completed in under 10 minutes.
+FBK-5039,BR003,2026-06-23 14:20:49,Credit Card,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5040,BR005,2026-06-13 11:50:48,Loans - Payment and Sanctioning,5,Very fast service for Loans - Payment and Sanctioning at Vijayawada Main! Completed in under 10 minutes.
+FBK-5041,BR007,2026-08-10 11:53:29,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5042,BR007,2026-08-15 12:06:52,Insurance,4,Smooth process for Insurance. Good assistance provided by staff.
+FBK-5043,BR002,2026-06-11 11:44:12,Cheque Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5044,BR005,2026-08-29 15:15:46,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Vijayawada Main! Completed in under 10 minutes.
+FBK-5045,BR007,2026-08-06 11:07:44,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5046,BR003,2026-08-04 10:48:25,Withdrawal,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5047,BR007,2026-07-24 10:16:05,Debit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5048,BR001,2026-08-01 10:58:44,Loans - Payment and Sanctioning,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5049,BR002,2026-07-08 16:27:16,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5050,BR003,2026-07-18 09:51:06,Credit Card,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5051,BR007,2026-07-25 10:50:31,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5052,BR001,2026-07-18 15:29:34,Debit Card,5,Very fast service for Debit Card at Hyderabad Central! Completed in under 10 minutes.
+FBK-5053,BR008,2026-06-12 10:34:16,Credit Card,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5054,BR001,2026-06-24 12:11:06,Credit Card,4,Smooth process for Credit Card. Good assistance provided by staff.
+FBK-5055,BR007,2026-08-14 15:44:45,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5056,BR002,2026-08-29 12:34:32,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5057,BR005,2026-08-03 15:47:25,Withdrawal,5,Token system working very efficiently at Vijayawada Main.
+FBK-5058,BR005,2026-06-09 16:33:27,KYC Related,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5059,BR001,2026-06-30 16:05:11,Deposit,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5060,BR003,2026-07-07 10:56:23,Other,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5061,BR008,2026-06-29 11:44:09,Loans - Payment and Sanctioning,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5062,BR002,2026-06-01 15:51:18,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5063,BR004,2026-08-21 15:05:10,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Warangal Main! Completed in under 10 minutes.
+FBK-5064,BR002,2026-07-21 12:33:42,Insurance,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5065,BR006,2026-06-23 11:20:16,Aadhaar Linking,5,Token system working very efficiently at Karimnagar Main.
+FBK-5066,BR004,2026-07-08 11:13:43,Deposit,5,Token system working very efficiently at Warangal Main.
+FBK-5067,BR001,2026-06-25 10:22:55,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5068,BR001,2026-07-17 10:57:16,Insurance,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5069,BR008,2026-06-11 15:40:04,Aadhaar Linking,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5070,BR003,2026-06-16 09:29:39,Account Opening,4,Smooth process for Account Opening. Good assistance provided by staff.
+FBK-5071,BR003,2026-06-03 11:17:39,Loans - Payment and Sanctioning,2,Aadhaar linking queue was messy. Senior citizens had to stand for 30 minutes.
+FBK-5072,BR002,2026-08-12 13:08:56,Deposit,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5073,BR002,2026-07-02 14:29:42,Deposit,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5074,BR007,2026-06-10 12:16:36,Locker Issuing,1,Waited for over 16 minutes at Visakhapatnam Central counter for Locker Issuing. Horrible queue management!
+FBK-5075,BR003,2026-08-21 13:47:12,Credit Card,5,Very fast service for Credit Card at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5076,BR005,2026-06-09 10:48:10,Money Transfer,4,Smooth process for Money Transfer. Good assistance provided by staff.
+FBK-5077,BR007,2026-08-05 13:28:09,Withdrawal,5,Token system working very efficiently at Visakhapatnam Central.
+FBK-5078,BR003,2026-06-04 11:17:33,Money Transfer,4,Smooth process for Money Transfer. Good assistance provided by staff.
+FBK-5079,BR005,2026-06-04 16:31:46,Loans - Payment and Sanctioning,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5080,BR005,2026-07-24 15:37:58,Loans - Payment and Sanctioning,5,Token system working very efficiently at Vijayawada Main.
+FBK-5081,BR004,2026-08-26 13:23:52,Loans - Payment and Sanctioning,4,Smooth process for Loans - Payment and Sanctioning. Good assistance provided by staff.
+FBK-5082,BR001,2026-08-04 14:14:17,Money Transfer,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5083,BR005,2026-07-30 11:34:11,Money Transfer,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5084,BR007,2026-06-19 14:07:27,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5085,BR006,2026-08-08 09:54:27,PAN Linking,5,Token system working very efficiently at Karimnagar Main.
+FBK-5086,BR006,2026-08-04 11:56:30,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5087,BR004,2026-07-28 10:31:49,KYC Related,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5088,BR007,2026-07-10 15:49:02,Money Transfer,4,Smooth process for Money Transfer. Good assistance provided by staff.
+FBK-5089,BR003,2026-07-01 15:25:51,Money Transfer,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5090,BR003,2026-08-22 16:59:08,Account Opening,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5091,BR005,2026-06-04 15:47:21,Withdrawal,5,Very fast service for Withdrawal at Vijayawada Main! Completed in under 10 minutes.
+FBK-5092,BR003,2026-08-04 12:27:07,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5093,BR001,2026-08-05 09:18:20,Deposit,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5094,BR003,2026-06-01 15:39:28,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5095,BR002,2026-08-03 15:33:46,Aadhaar Linking,4,Smooth process for Aadhaar Linking. Good assistance provided by staff.
+FBK-5096,BR001,2026-07-21 10:58:22,Deposit,5,Very fast service for Deposit at Hyderabad Central! Completed in under 10 minutes.
+FBK-5097,BR004,2026-07-31 10:59:57,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5098,BR008,2026-08-06 10:01:58,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5099,BR006,2026-06-01 11:00:21,Debit Card,3,Branch was crowded but staff managed to process Debit Card steadily.
+FBK-5100,BR002,2026-08-10 16:54:22,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5101,BR008,2026-06-13 10:36:52,Account Opening,4,Smooth process for Account Opening. Good assistance provided by staff.
+FBK-5102,BR007,2026-06-29 14:17:04,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5103,BR002,2026-08-05 10:38:13,KYC Related,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5104,BR007,2026-06-17 10:09:24,KYC Related,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5105,BR001,2026-08-11 16:51:15,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Hyderabad Central! Completed in under 10 minutes.
+FBK-5106,BR001,2026-06-11 10:12:40,Account Opening,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5107,BR005,2026-07-13 15:57:06,Deposit,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5108,BR002,2026-06-23 09:36:23,Money Transfer,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5109,BR006,2026-07-24 11:31:17,Cheque Withdrawal,5,Token system working very efficiently at Karimnagar Main.
+FBK-5110,BR002,2026-06-01 15:35:36,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5111,BR003,2026-07-27 10:22:47,Aadhaar Linking,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5112,BR004,2026-07-18 09:42:12,Withdrawal,5,Token system working very efficiently at Warangal Main.
+FBK-5113,BR001,2026-07-04 11:36:59,Cheque Withdrawal,4,Smooth process for Cheque Withdrawal. Good assistance provided by staff.
+FBK-5114,BR005,2026-08-26 13:14:18,Debit Card,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5115,BR006,2026-07-17 10:30:37,Account Opening,5,Token system working very efficiently at Karimnagar Main.
+FBK-5116,BR007,2026-08-07 11:29:57,KYC Related,5,Token system working very efficiently at Visakhapatnam Central.
+FBK-5117,BR004,2026-07-28 10:56:24,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5118,BR005,2026-06-18 12:32:24,Insurance,5,Very fast service for Insurance at Vijayawada Main! Completed in under 10 minutes.
+FBK-5119,BR007,2026-07-04 15:00:25,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5120,BR007,2026-08-11 16:19:26,Credit Card,5,Very fast service for Credit Card at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5121,BR005,2026-08-28 15:30:54,Loans - Payment and Sanctioning,5,Very fast service for Loans - Payment and Sanctioning at Vijayawada Main! Completed in under 10 minutes.
+FBK-5122,BR003,2026-07-11 16:09:52,Aadhaar Linking,4,Smooth process for Aadhaar Linking. Good assistance provided by staff.
+FBK-5123,BR002,2026-07-28 10:17:43,Account Opening,5,Very fast service for Account Opening at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5124,BR007,2026-07-27 10:15:41,KYC Related,5,Very fast service for KYC Related at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5125,BR004,2026-08-21 15:50:40,Debit Card,5,Token system working very efficiently at Warangal Main.
+FBK-5126,BR004,2026-08-10 11:43:54,Deposit,5,Token system working very efficiently at Warangal Main.
+FBK-5127,BR003,2026-06-30 13:45:07,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5128,BR002,2026-06-25 14:16:33,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5129,BR002,2026-06-30 16:31:44,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5130,BR002,2026-07-21 15:51:45,KYC Related,4,Smooth process for KYC Related. Good assistance provided by staff.
+FBK-5131,BR003,2026-07-20 12:59:26,Loans - Payment and Sanctioning,2,The queue at Hyderabad Secunderabad for Loans - Payment and Sanctioning was unmanaged. Took 18 mins just to submit forms.
+FBK-5132,BR001,2026-08-05 10:07:38,Loans - Payment and Sanctioning,1,Waited for over 13 minutes at Hyderabad Central counter for Loans - Payment and Sanctioning. Horrible queue management!
+FBK-5133,BR002,2026-07-03 15:19:49,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5134,BR003,2026-08-28 16:40:47,Credit Card,5,Very fast service for Credit Card at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5135,BR008,2026-07-17 15:42:32,PAN Linking,5,Token system working very efficiently at Tirupati Main.
+FBK-5136,BR001,2026-07-16 12:17:41,Cheque Withdrawal,5,Token system working very efficiently at Hyderabad Central.
+FBK-5137,BR005,2026-06-22 10:35:26,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5138,BR002,2026-07-02 15:56:02,Money Transfer,4,Smooth process for Money Transfer. Good assistance provided by staff.
+FBK-5139,BR002,2026-08-04 10:26:11,Cheque Withdrawal,4,Smooth process for Cheque Withdrawal. Good assistance provided by staff.
+FBK-5140,BR003,2026-07-14 16:26:44,PAN Linking,5,Very fast service for PAN Linking at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5141,BR008,2026-06-12 10:26:11,Withdrawal,5,Very fast service for Withdrawal at Tirupati Main! Completed in under 10 minutes.
+FBK-5142,BR008,2026-08-04 09:23:50,Account Opening,5,Very fast service for Account Opening at Tirupati Main! Completed in under 10 minutes.
+FBK-5143,BR005,2026-08-29 14:37:34,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5144,BR003,2026-07-20 13:13:58,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5145,BR002,2026-08-19 11:33:13,PAN Linking,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5146,BR001,2026-07-23 13:23:07,Aadhaar Linking,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5147,BR007,2026-06-13 16:57:11,Account Opening,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5148,BR004,2026-07-15 09:51:23,Account Opening,5,Very fast service for Account Opening at Warangal Main! Completed in under 10 minutes.
+FBK-5149,BR003,2026-06-02 11:47:05,Locker Issuing,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5150,BR002,2026-06-22 14:41:46,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5151,BR002,2026-07-02 13:25:37,Money Transfer,4,Smooth process for Money Transfer. Good assistance provided by staff.
+FBK-5152,BR007,2026-07-29 16:31:23,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5153,BR004,2026-07-10 11:43:00,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5154,BR001,2026-08-06 14:01:47,Withdrawal,5,Very fast service for Withdrawal at Hyderabad Central! Completed in under 10 minutes.
+FBK-5155,BR007,2026-06-04 10:13:29,KYC Related,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5156,BR003,2026-07-06 14:47:46,Aadhaar Linking,4,Smooth process for Aadhaar Linking. Good assistance provided by staff.
+FBK-5157,BR001,2026-06-04 12:51:38,Debit Card,5,Very fast service for Debit Card at Hyderabad Central! Completed in under 10 minutes.
+FBK-5158,BR005,2026-06-09 15:07:19,Money Transfer,5,Very fast service for Money Transfer at Vijayawada Main! Completed in under 10 minutes.
+FBK-5159,BR007,2026-06-01 10:23:15,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5160,BR008,2026-06-26 15:41:10,Withdrawal,5,Token system working very efficiently at Tirupati Main.
+FBK-5161,BR001,2026-08-03 15:36:15,Deposit,5,Token system working very efficiently at Hyderabad Central.
+FBK-5162,BR005,2026-06-22 10:04:48,Deposit,5,Very fast service for Deposit at Vijayawada Main! Completed in under 10 minutes.
+FBK-5163,BR003,2026-06-25 16:59:37,PAN Linking,5,Very fast service for PAN Linking at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5164,BR006,2026-07-06 11:14:50,Money Transfer,5,Token system working very efficiently at Karimnagar Main.
+FBK-5165,BR005,2026-06-03 12:07:21,KYC Related,5,Token system working very efficiently at Vijayawada Main.
+FBK-5166,BR008,2026-08-20 11:25:17,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5167,BR005,2026-07-03 10:37:38,Insurance,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5168,BR004,2026-07-17 14:31:38,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5169,BR002,2026-06-13 09:01:56,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5170,BR003,2026-06-02 09:48:56,Loans - Payment and Sanctioning,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5171,BR005,2026-07-14 09:41:35,Aadhaar Linking,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5172,BR005,2026-08-12 14:19:03,PAN Linking,5,Token system working very efficiently at Vijayawada Main.
+FBK-5173,BR007,2026-07-03 10:50:33,KYC Related,4,Smooth process for KYC Related. Good assistance provided by staff.
+FBK-5174,BR002,2026-06-10 09:47:05,Loans - Payment and Sanctioning,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5175,BR003,2026-06-12 10:01:16,Money Transfer,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5176,BR001,2026-06-09 11:59:39,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5177,BR006,2026-08-24 11:04:44,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5178,BR002,2026-07-24 12:50:53,KYC Related,5,Very fast service for KYC Related at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5179,BR003,2026-08-22 10:47:09,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5180,BR008,2026-08-01 10:32:36,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5181,BR002,2026-07-28 14:02:01,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5182,BR002,2026-07-01 11:07:17,Credit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5183,BR008,2026-06-22 15:06:31,Account Opening,2,Long waiting time for Account Opening at Tirupati Main. Counter staff took too long.
+FBK-5184,BR008,2026-08-29 11:11:35,Money Transfer,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5185,BR001,2026-07-27 16:55:41,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5186,BR008,2026-08-21 10:40:58,Deposit,5,Very fast service for Deposit at Tirupati Main! Completed in under 10 minutes.
+FBK-5187,BR003,2026-08-19 15:44:49,Account Opening,4,Smooth process for Account Opening. Good assistance provided by staff.
+FBK-5188,BR002,2026-08-24 11:52:19,Cheque Withdrawal,4,Smooth process for Cheque Withdrawal. Good assistance provided by staff.
+FBK-5189,BR003,2026-06-25 11:16:08,Account Opening,5,Very fast service for Account Opening at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5190,BR008,2026-08-24 16:35:33,Credit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5191,BR005,2026-06-05 11:07:50,Withdrawal,5,Very fast service for Withdrawal at Vijayawada Main! Completed in under 10 minutes.
+FBK-5192,BR001,2026-06-03 10:37:39,Insurance,4,Smooth process for Insurance. Good assistance provided by staff.
+FBK-5193,BR002,2026-08-10 13:35:23,Debit Card,4,Smooth process for Debit Card. Good assistance provided by staff.
+FBK-5194,BR003,2026-08-03 10:57:23,KYC Related,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5195,BR008,2026-06-15 11:17:21,KYC Related,1,Loan processing delay is absurd. Staff keep referring to manager.
+FBK-5196,BR002,2026-08-13 12:47:46,Deposit,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5197,BR004,2026-06-01 10:19:29,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5198,BR007,2026-06-10 16:43:48,Account Opening,5,Token system working very efficiently at Visakhapatnam Central.
+FBK-5199,BR001,2026-08-07 11:47:41,Locker Issuing,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5200,BR002,2026-06-27 12:42:07,Loans - Payment and Sanctioning,1,Loan processing delay is absurd. Staff keep referring to manager.
+FBK-5201,BR005,2026-07-03 13:42:04,Withdrawal,5,Very fast service for Withdrawal at Vijayawada Main! Completed in under 10 minutes.
+FBK-5202,BR007,2026-07-30 10:12:42,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5203,BR003,2026-08-07 09:10:18,Credit Card,4,Smooth process for Credit Card. Good assistance provided by staff.
+FBK-5204,BR004,2026-06-05 13:26:01,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5205,BR006,2026-06-13 13:28:02,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5206,BR006,2026-06-10 15:29:49,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5207,BR002,2026-07-02 11:58:52,Insurance,2,Aadhaar linking queue was messy. Senior citizens had to stand for 30 minutes.
+FBK-5208,BR008,2026-08-07 14:24:32,Account Opening,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5209,BR007,2026-06-01 11:54:04,Money Transfer,4,Smooth process for Money Transfer. Good assistance provided by staff.
+FBK-5210,BR003,2026-07-21 12:06:54,Deposit,5,Very fast service for Deposit at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5211,BR003,2026-06-24 11:00:10,Credit Card,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5212,BR004,2026-07-10 16:04:19,Account Opening,3,Please enable online portal for PAN linking so we don't have to visit branch.
+FBK-5213,BR005,2026-07-01 15:59:20,Account Opening,5,Very fast service for Account Opening at Vijayawada Main! Completed in under 10 minutes.
+FBK-5214,BR002,2026-06-26 11:27:32,Account Opening,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5215,BR007,2026-08-21 14:03:17,Money Transfer,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5216,BR007,2026-08-05 16:46:51,Withdrawal,5,Token system working very efficiently at Visakhapatnam Central.
+FBK-5217,BR001,2026-08-06 12:34:07,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5218,BR004,2026-08-19 11:23:01,KYC Related,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5219,BR005,2026-06-04 09:40:38,PAN Linking,5,Token system working very efficiently at Vijayawada Main.
+FBK-5220,BR006,2026-07-09 10:55:25,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5221,BR002,2026-08-28 12:55:34,Deposit,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5222,BR003,2026-07-09 12:21:10,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5223,BR004,2026-06-27 16:50:22,Money Transfer,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5224,BR007,2026-07-18 16:26:43,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5225,BR002,2026-06-24 10:28:06,Account Opening,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5226,BR004,2026-07-31 11:02:24,Money Transfer,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5227,BR007,2026-06-04 12:48:14,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5228,BR008,2026-07-21 13:46:40,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5229,BR003,2026-07-01 12:49:57,Cheque Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5230,BR007,2026-08-25 15:57:56,KYC Related,4,Smooth process for KYC Related. Good assistance provided by staff.
+FBK-5231,BR001,2026-07-14 15:47:25,Cheque Withdrawal,5,Token system working very efficiently at Hyderabad Central.
+FBK-5232,BR001,2026-06-10 12:40:43,Account Opening,5,Very fast service for Account Opening at Hyderabad Central! Completed in under 10 minutes.
+FBK-5233,BR007,2026-08-13 11:56:00,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5234,BR002,2026-07-30 13:20:58,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5235,BR001,2026-07-17 14:00:53,Locker Issuing,5,Token system working very efficiently at Hyderabad Central.
+FBK-5236,BR008,2026-08-18 11:59:15,Credit Card,5,Very fast service for Credit Card at Tirupati Main! Completed in under 10 minutes.
+FBK-5237,BR002,2026-08-10 10:30:41,Debit Card,5,Very fast service for Debit Card at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5238,BR008,2026-07-27 11:48:53,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Tirupati Main! Completed in under 10 minutes.
+FBK-5239,BR003,2026-08-29 12:30:33,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5240,BR004,2026-06-29 15:57:12,PAN Linking,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5241,BR007,2026-06-24 11:32:40,Money Transfer,5,Very fast service for Money Transfer at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5242,BR008,2026-08-15 15:42:24,Cheque Withdrawal,4,Smooth process for Cheque Withdrawal. Good assistance provided by staff.
+FBK-5243,BR007,2026-06-01 16:38:38,PAN Linking,4,Smooth process for PAN Linking. Good assistance provided by staff.
+FBK-5244,BR005,2026-06-19 14:40:20,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5245,BR006,2026-06-24 11:11:05,Loans - Payment and Sanctioning,2,KYC updating took forever. Need online service options for this.
+FBK-5246,BR003,2026-06-29 10:34:22,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5247,BR006,2026-06-01 13:00:03,Aadhaar Linking,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5248,BR002,2026-07-02 16:38:51,Money Transfer,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5249,BR003,2026-06-13 09:15:41,Debit Card,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5250,BR008,2026-08-14 15:32:06,Debit Card,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5251,BR007,2026-06-24 15:38:39,Account Opening,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5252,BR005,2026-07-31 11:27:46,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5253,BR007,2026-08-24 15:18:16,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5254,BR006,2026-07-28 16:59:36,Insurance,2,Long waiting time for Insurance at Karimnagar Main. Counter staff took too long.
+FBK-5255,BR008,2026-06-08 11:40:03,Deposit,5,Very fast service for Deposit at Tirupati Main! Completed in under 10 minutes.
+FBK-5256,BR001,2026-06-12 15:24:42,Debit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5257,BR007,2026-06-09 14:31:18,Loans - Payment and Sanctioning,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5258,BR007,2026-08-07 09:03:23,Aadhaar Linking,5,Token system working very efficiently at Visakhapatnam Central.
+FBK-5259,BR006,2026-08-28 12:17:01,Loans - Payment and Sanctioning,1,Loan processing delay is absurd. Staff keep referring to manager.
+FBK-5260,BR002,2026-06-29 10:06:26,KYC Related,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5261,BR002,2026-08-27 10:17:06,Debit Card,4,Smooth process for Debit Card. Good assistance provided by staff.
+FBK-5262,BR007,2026-07-04 12:12:47,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5263,BR005,2026-07-06 15:20:26,KYC Related,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5264,BR005,2026-07-09 13:51:50,Money Transfer,5,Token system working very efficiently at Vijayawada Main.
+FBK-5265,BR001,2026-06-01 11:08:19,Credit Card,4,Smooth process for Credit Card. Good assistance provided by staff.
+FBK-5266,BR001,2026-07-27 11:30:22,Money Transfer,5,Token system working very efficiently at Hyderabad Central.
+FBK-5267,BR006,2026-07-30 16:52:19,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5268,BR007,2026-08-20 16:47:22,Loans - Payment and Sanctioning,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5269,BR006,2026-06-22 11:56:25,Withdrawal,5,Token system working very efficiently at Karimnagar Main.
+FBK-5270,BR008,2026-08-04 11:53:03,Cheque Withdrawal,5,Token system working very efficiently at Tirupati Main.
+FBK-5271,BR007,2026-06-20 16:49:52,Credit Card,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5272,BR006,2026-07-14 12:58:03,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5273,BR006,2026-06-20 12:41:50,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5274,BR003,2026-08-05 15:41:12,PAN Linking,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5275,BR002,2026-06-15 15:57:03,Money Transfer,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5276,BR002,2026-06-15 14:53:23,Account Opening,4,Smooth process for Account Opening. Good assistance provided by staff.
+FBK-5277,BR004,2026-07-30 14:41:30,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5278,BR006,2026-07-17 15:07:58,Debit Card,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5279,BR003,2026-06-08 15:23:56,Cheque Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5280,BR002,2026-08-25 14:30:11,Locker Issuing,4,Smooth process for Locker Issuing. Good assistance provided by staff.
+FBK-5281,BR001,2026-07-03 12:48:07,Loans - Payment and Sanctioning,2,KYC updating took forever. Need online service options for this.
+FBK-5282,BR007,2026-08-20 11:37:40,Money Transfer,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5283,BR001,2026-06-17 11:03:00,Deposit,5,Token system working very efficiently at Hyderabad Central.
+FBK-5284,BR005,2026-06-25 12:15:18,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5285,BR005,2026-08-19 11:46:24,Insurance,5,Token system working very efficiently at Vijayawada Main.
+FBK-5286,BR001,2026-06-17 11:13:30,Debit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5287,BR003,2026-08-17 16:13:54,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5288,BR001,2026-06-29 11:30:50,Locker Issuing,1,Waited for over 23 minutes at Hyderabad Central counter for Locker Issuing. Horrible queue management!
+FBK-5289,BR001,2026-06-22 12:40:05,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5290,BR004,2026-06-05 10:17:32,Deposit,5,Very fast service for Deposit at Warangal Main! Completed in under 10 minutes.
+FBK-5291,BR005,2026-07-27 14:14:31,Deposit,5,Token system working very efficiently at Vijayawada Main.
+FBK-5292,BR008,2026-06-09 11:27:20,Credit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5293,BR005,2026-06-24 16:49:54,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5294,BR005,2026-07-29 10:43:25,Credit Card,5,Token system working very efficiently at Vijayawada Main.
+FBK-5295,BR003,2026-07-31 15:41:02,Withdrawal,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5296,BR003,2026-06-04 16:26:44,Deposit,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5297,BR008,2026-07-15 11:30:13,Withdrawal,5,Token system working very efficiently at Tirupati Main.
+FBK-5298,BR002,2026-06-29 14:56:27,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5299,BR006,2026-07-31 15:33:42,Money Transfer,4,Smooth process for Money Transfer. Good assistance provided by staff.
+FBK-5300,BR002,2026-07-06 11:17:57,Credit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5301,BR008,2026-06-27 14:57:32,Deposit,5,Token system working very efficiently at Tirupati Main.
+FBK-5302,BR004,2026-08-21 15:32:03,PAN Linking,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5303,BR004,2026-07-24 13:30:23,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5304,BR003,2026-07-07 10:53:35,KYC Related,5,Very fast service for KYC Related at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5305,BR002,2026-06-19 14:11:52,Credit Card,5,Very fast service for Credit Card at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5306,BR002,2026-07-08 10:00:50,Account Opening,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5307,BR002,2026-06-22 12:39:31,Loans - Payment and Sanctioning,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5308,BR006,2026-07-14 12:07:55,Deposit,5,Token system working very efficiently at Karimnagar Main.
+FBK-5309,BR006,2026-07-02 14:16:37,Insurance,2,Long waiting time for Insurance at Karimnagar Main. Counter staff took too long.
+FBK-5310,BR002,2026-06-10 14:26:58,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5311,BR001,2026-07-28 15:24:43,Account Opening,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5312,BR002,2026-08-14 12:11:38,Deposit,5,Very fast service for Deposit at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5313,BR008,2026-06-30 13:38:12,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5314,BR005,2026-07-17 14:52:34,KYC Related,5,Token system working very efficiently at Vijayawada Main.
+FBK-5315,BR002,2026-07-20 13:04:34,Account Opening,4,Smooth process for Account Opening. Good assistance provided by staff.
+FBK-5316,BR005,2026-07-02 11:31:23,Credit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5317,BR007,2026-06-11 11:24:16,Debit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5318,BR003,2026-06-29 10:13:38,Insurance,1,Waited for over 17 minutes at Hyderabad Secunderabad counter for Insurance. Horrible queue management!
+FBK-5319,BR005,2026-06-23 09:15:58,Account Opening,3,Service for Account Opening was average. Took about 12 mins.
+FBK-5320,BR001,2026-06-10 11:50:53,PAN Linking,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5321,BR001,2026-07-17 12:52:43,Account Opening,4,Smooth process for Account Opening. Good assistance provided by staff.
+FBK-5322,BR007,2026-07-22 15:46:11,Debit Card,5,Very fast service for Debit Card at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5323,BR003,2026-07-06 12:31:01,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5324,BR001,2026-06-10 15:59:49,Loans - Payment and Sanctioning,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5325,BR001,2026-08-11 15:30:50,Loans - Payment and Sanctioning,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5326,BR002,2026-06-04 15:05:47,Account Opening,4,Smooth process for Account Opening. Good assistance provided by staff.
+FBK-5327,BR007,2026-06-10 10:53:15,Loans - Payment and Sanctioning,3,Please enable online portal for PAN linking so we don't have to visit branch.
+FBK-5328,BR007,2026-06-29 10:54:33,Deposit,5,Very fast service for Deposit at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5329,BR008,2026-07-02 10:38:27,Other,1,Extremely slow processing for Other. Only 2 staff available during peak morning hours.
+FBK-5330,BR002,2026-07-07 12:39:21,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5331,BR002,2026-07-02 16:12:08,Deposit,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5332,BR002,2026-06-25 14:53:18,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5333,BR007,2026-07-01 10:03:40,Credit Card,4,Smooth process for Credit Card. Good assistance provided by staff.
+FBK-5334,BR007,2026-08-10 16:41:31,Account Opening,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5335,BR001,2026-06-29 14:58:47,Withdrawal,5,Very fast service for Withdrawal at Hyderabad Central! Completed in under 10 minutes.
+FBK-5336,BR007,2026-08-05 11:00:38,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5337,BR003,2026-08-27 13:44:47,Cheque Withdrawal,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5338,BR002,2026-06-02 12:41:48,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5339,BR001,2026-07-30 10:00:42,KYC Related,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5340,BR001,2026-08-13 15:11:55,Account Opening,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5341,BR001,2026-08-03 09:32:17,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5342,BR002,2026-07-28 11:54:52,Cheque Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5343,BR003,2026-07-03 12:28:24,Cheque Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5344,BR008,2026-07-01 12:15:19,KYC Related,4,Smooth process for KYC Related. Good assistance provided by staff.
+FBK-5345,BR002,2026-07-17 16:14:56,Debit Card,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5346,BR001,2026-07-28 10:59:08,Aadhaar Linking,5,Token system working very efficiently at Hyderabad Central.
+FBK-5347,BR007,2026-08-29 12:01:07,Withdrawal,5,Very fast service for Withdrawal at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5348,BR001,2026-08-03 15:00:56,Locker Issuing,3,Need more working counters during lunch hour between 1 PM and 2 PM.
+FBK-5349,BR001,2026-06-19 10:23:43,Debit Card,5,Very fast service for Debit Card at Hyderabad Central! Completed in under 10 minutes.
+FBK-5350,BR006,2026-08-19 12:59:00,Money Transfer,5,Token system working very efficiently at Karimnagar Main.
+FBK-5351,BR008,2026-08-21 09:07:25,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5352,BR004,2026-06-01 15:04:46,Deposit,5,Very fast service for Deposit at Warangal Main! Completed in under 10 minutes.
+FBK-5353,BR004,2026-06-22 14:04:03,Debit Card,2,Aadhaar linking queue was messy. Senior citizens had to stand for 30 minutes.
+FBK-5354,BR003,2026-06-20 12:00:33,Credit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5355,BR001,2026-08-04 16:45:51,Insurance,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5356,BR004,2026-07-22 11:16:06,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5357,BR002,2026-08-01 16:58:00,Deposit,5,Very fast service for Deposit at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5358,BR008,2026-08-20 12:41:51,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5359,BR006,2026-07-31 15:54:26,Loans - Payment and Sanctioning,5,Very fast service for Loans - Payment and Sanctioning at Karimnagar Main! Completed in under 10 minutes.
+FBK-5360,BR007,2026-06-09 10:33:05,KYC Related,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5361,BR007,2026-08-10 09:13:26,Aadhaar Linking,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5362,BR002,2026-08-06 16:58:21,Other,5,Very fast service for Other at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5363,BR007,2026-06-15 11:24:06,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5364,BR002,2026-06-04 10:38:00,PAN Linking,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5365,BR004,2026-07-30 14:30:16,Cheque Withdrawal,5,Token system working very efficiently at Warangal Main.
+FBK-5366,BR005,2026-07-01 09:20:04,Account Opening,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5367,BR001,2026-06-30 12:23:41,Insurance,4,Smooth process for Insurance. Good assistance provided by staff.
+FBK-5368,BR001,2026-08-21 09:22:07,Cheque Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5369,BR006,2026-06-12 10:23:56,Credit Card,5,Token system working very efficiently at Karimnagar Main.
+FBK-5370,BR002,2026-06-02 09:12:16,Debit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5371,BR004,2026-06-29 15:22:16,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5372,BR001,2026-06-05 10:46:01,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5373,BR007,2026-07-01 12:44:18,Insurance,4,Smooth process for Insurance. Good assistance provided by staff.
+FBK-5374,BR007,2026-06-15 10:29:30,Loans - Payment and Sanctioning,4,Smooth process for Loans - Payment and Sanctioning. Good assistance provided by staff.
+FBK-5375,BR002,2026-08-04 15:26:51,Cheque Withdrawal,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5376,BR004,2026-07-17 10:42:30,PAN Linking,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5377,BR002,2026-07-03 10:44:43,Other,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5378,BR003,2026-07-28 16:14:00,Deposit,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5379,BR002,2026-06-23 09:38:15,Credit Card,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5380,BR001,2026-08-07 09:21:48,PAN Linking,4,Smooth process for PAN Linking. Good assistance provided by staff.
+FBK-5381,BR002,2026-08-24 16:41:36,Cheque Withdrawal,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5382,BR008,2026-07-25 09:44:06,Credit Card,5,Very fast service for Credit Card at Tirupati Main! Completed in under 10 minutes.
+FBK-5383,BR007,2026-08-20 10:29:30,KYC Related,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5384,BR004,2026-07-01 16:29:01,Debit Card,5,Token system working very efficiently at Warangal Main.
+FBK-5385,BR003,2026-08-04 16:05:36,Deposit,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5386,BR008,2026-06-29 15:02:32,Debit Card,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5387,BR005,2026-07-11 10:19:59,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5388,BR002,2026-07-16 12:54:49,Insurance,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5389,BR004,2026-08-04 16:46:45,Money Transfer,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5390,BR006,2026-08-12 13:38:18,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5391,BR007,2026-07-09 10:15:28,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5392,BR001,2026-06-25 10:43:47,Locker Issuing,5,Very fast service for Locker Issuing at Hyderabad Central! Completed in under 10 minutes.
+FBK-5393,BR006,2026-06-01 09:59:57,Debit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5394,BR008,2026-08-17 15:06:54,Account Opening,3,Service for Account Opening was average. Took about 13 mins.
+FBK-5395,BR008,2026-06-02 12:03:16,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5396,BR005,2026-06-24 14:45:58,PAN Linking,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5397,BR001,2026-07-13 10:06:58,Account Opening,5,Very fast service for Account Opening at Hyderabad Central! Completed in under 10 minutes.
+FBK-5398,BR003,2026-08-10 09:29:53,Account Opening,5,Very fast service for Account Opening at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5399,BR003,2026-07-04 15:29:13,Credit Card,5,Very fast service for Credit Card at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5400,BR002,2026-06-18 10:45:20,Loans - Payment and Sanctioning,2,KYC updating took forever. Need online service options for this.
+FBK-5401,BR003,2026-06-17 13:19:18,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5402,BR004,2026-07-25 14:37:03,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5403,BR001,2026-07-11 12:07:32,KYC Related,5,Token system working very efficiently at Hyderabad Central.
+FBK-5404,BR003,2026-08-13 10:28:11,Credit Card,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5405,BR001,2026-07-08 10:05:47,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5406,BR001,2026-06-22 10:03:01,KYC Related,4,Smooth process for KYC Related. Good assistance provided by staff.
+FBK-5407,BR004,2026-08-08 14:11:39,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Warangal Main! Completed in under 10 minutes.
+FBK-5408,BR002,2026-07-16 11:01:10,Cheque Withdrawal,4,Smooth process for Cheque Withdrawal. Good assistance provided by staff.
+FBK-5409,BR002,2026-08-05 11:57:05,Account Opening,5,Very fast service for Account Opening at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5410,BR007,2026-07-06 11:43:52,Credit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5411,BR003,2026-08-29 14:55:47,Withdrawal,5,Very fast service for Withdrawal at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5412,BR004,2026-06-12 14:26:17,Deposit,5,Very fast service for Deposit at Warangal Main! Completed in under 10 minutes.
+FBK-5413,BR004,2026-06-05 15:45:05,Account Opening,2,KYC updating took forever. Need online service options for this.
+FBK-5414,BR002,2026-08-24 10:53:43,Deposit,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5415,BR008,2026-07-23 11:51:21,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5416,BR003,2026-07-01 12:27:58,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5417,BR004,2026-07-04 12:59:12,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5418,BR002,2026-06-19 11:46:11,Deposit,5,Token system working very efficiently at Hyderabad Kukatpally.
+FBK-5419,BR005,2026-07-30 16:58:40,Cheque Withdrawal,5,Token system working very efficiently at Vijayawada Main.
+FBK-5420,BR001,2026-08-07 11:20:55,Withdrawal,5,Very fast service for Withdrawal at Hyderabad Central! Completed in under 10 minutes.
+FBK-5421,BR008,2026-06-03 12:18:01,Loans - Payment and Sanctioning,3,Please enable online portal for PAN linking so we don't have to visit branch.
+FBK-5422,BR002,2026-06-18 16:09:57,Deposit,5,Very fast service for Deposit at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5423,BR007,2026-07-28 15:15:02,Account Opening,5,Very fast service for Account Opening at Visakhapatnam Central! Completed in under 10 minutes.
+FBK-5424,BR003,2026-08-04 15:40:54,Account Opening,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5425,BR007,2026-07-04 09:50:21,KYC Related,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5426,BR006,2026-07-17 15:00:09,KYC Related,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5427,BR007,2026-06-26 11:47:22,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5428,BR007,2026-07-13 10:49:47,Deposit,5,Token system working very efficiently at Visakhapatnam Central.
+FBK-5429,BR001,2026-08-24 13:55:50,Insurance,5,Very fast service for Insurance at Hyderabad Central! Completed in under 10 minutes.
+FBK-5430,BR008,2026-08-14 10:42:35,Credit Card,5,Token system working very efficiently at Tirupati Main.
+FBK-5431,BR008,2026-07-13 14:06:46,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Tirupati Main! Completed in under 10 minutes.
+FBK-5432,BR005,2026-06-24 14:12:05,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5433,BR007,2026-08-28 11:04:29,Insurance,2,KYC updating took forever. Need online service options for this.
+FBK-5434,BR001,2026-06-23 14:31:00,Money Transfer,5,Token system working very efficiently at Hyderabad Central.
+FBK-5435,BR001,2026-07-03 11:24:39,Cheque Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5436,BR002,2026-06-15 15:45:00,Locker Issuing,5,Very fast service for Locker Issuing at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5437,BR006,2026-06-30 16:11:35,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5438,BR001,2026-06-26 15:12:33,Debit Card,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5439,BR004,2026-07-14 16:19:27,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5440,BR008,2026-07-16 09:24:19,KYC Related,5,Very fast service for KYC Related at Tirupati Main! Completed in under 10 minutes.
+FBK-5441,BR003,2026-06-29 11:00:38,Aadhaar Linking,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5442,BR004,2026-08-04 10:15:20,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5443,BR005,2026-07-07 11:27:04,Withdrawal,5,Very fast service for Withdrawal at Vijayawada Main! Completed in under 10 minutes.
+FBK-5444,BR003,2026-06-18 11:46:11,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5445,BR004,2026-08-24 13:45:55,Insurance,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5446,BR002,2026-07-02 16:19:45,Account Opening,5,Very fast service for Account Opening at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5447,BR003,2026-07-09 14:30:09,Money Transfer,5,Token system working very efficiently at Hyderabad Secunderabad.
+FBK-5448,BR003,2026-08-13 12:01:09,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5449,BR004,2026-08-28 14:40:03,Money Transfer,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5450,BR002,2026-07-25 16:22:29,Insurance,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5451,BR004,2026-08-22 15:28:13,Insurance,2,Aadhaar linking queue was messy. Senior citizens had to stand for 30 minutes.
+FBK-5452,BR002,2026-07-03 11:39:39,Deposit,4,Smooth process for Deposit. Good assistance provided by staff.
+FBK-5453,BR006,2026-06-03 13:28:58,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5454,BR002,2026-08-06 12:42:58,Withdrawal,5,Very fast service for Withdrawal at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5455,BR003,2026-06-29 16:42:56,Cheque Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5456,BR006,2026-07-31 09:28:29,Locker Issuing,5,Token system working very efficiently at Karimnagar Main.
+FBK-5457,BR005,2026-06-29 09:37:07,KYC Related,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5458,BR006,2026-08-26 15:45:36,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Karimnagar Main! Completed in under 10 minutes.
+FBK-5459,BR006,2026-08-11 16:45:27,Deposit,5,Very fast service for Deposit at Karimnagar Main! Completed in under 10 minutes.
+FBK-5460,BR002,2026-06-02 15:41:24,Account Opening,5,Very fast service for Account Opening at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5461,BR004,2026-06-05 10:30:37,Deposit,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5462,BR006,2026-06-08 10:45:00,Debit Card,2,Aadhaar linking queue was messy. Senior citizens had to stand for 30 minutes.
+FBK-5463,BR008,2026-07-09 16:49:06,Aadhaar Linking,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5464,BR001,2026-07-28 13:49:54,KYC Related,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5465,BR007,2026-06-16 10:59:16,Debit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5466,BR001,2026-07-22 11:39:19,Money Transfer,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5467,BR002,2026-06-19 10:48:27,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5468,BR006,2026-06-16 10:00:47,Account Opening,2,Long waiting time for Account Opening at Karimnagar Main. Counter staff took too long.
+FBK-5469,BR003,2026-06-18 14:16:11,Withdrawal,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5470,BR003,2026-08-06 10:45:19,Account Opening,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5471,BR004,2026-08-12 16:38:38,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5472,BR008,2026-07-15 11:16:50,Withdrawal,5,Token system working very efficiently at Tirupati Main.
+FBK-5473,BR002,2026-08-04 15:19:44,Withdrawal,5,Very fast service for Withdrawal at Hyderabad Kukatpally! Completed in under 10 minutes.
+FBK-5474,BR007,2026-07-14 15:53:52,Account Opening,1,Extremely slow processing for Account Opening. Only 2 staff available during peak morning hours.
+FBK-5475,BR008,2026-06-25 13:43:42,Deposit,5,Token system working very efficiently at Tirupati Main.
+FBK-5476,BR004,2026-08-03 15:07:46,Locker Issuing,3,Need more working counters during lunch hour between 1 PM and 2 PM.
+FBK-5477,BR007,2026-08-28 15:52:56,Loans - Payment and Sanctioning,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5478,BR002,2026-08-24 16:58:17,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5479,BR002,2026-07-07 16:53:14,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5480,BR005,2026-07-06 09:56:14,Deposit,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5481,BR003,2026-06-01 16:48:31,Aadhaar Linking,5,Very fast service for Aadhaar Linking at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5482,BR007,2026-08-03 11:26:31,Credit Card,4,Smooth process for Credit Card. Good assistance provided by staff.
+FBK-5483,BR005,2026-07-24 11:47:26,Credit Card,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5484,BR002,2026-08-21 10:34:53,KYC Related,4,Smooth process for KYC Related. Good assistance provided by staff.
+FBK-5485,BR001,2026-08-18 15:51:49,Locker Issuing,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5486,BR006,2026-08-14 10:16:52,Account Opening,3,Need more working counters during lunch hour between 1 PM and 2 PM.
+FBK-5487,BR001,2026-07-09 16:24:55,Withdrawal,5,Token system working very efficiently at Hyderabad Central.
+FBK-5488,BR001,2026-08-01 10:50:11,Withdrawal,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5489,BR003,2026-07-17 14:06:20,Deposit,5,Very fast service for Deposit at Hyderabad Secunderabad! Completed in under 10 minutes.
+FBK-5490,BR004,2026-06-26 13:50:46,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5491,BR004,2026-06-12 11:16:24,Debit Card,5,Excellent customer support for account opening. Well explained by executive.
+FBK-5492,BR002,2026-07-29 13:45:23,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5493,BR004,2026-08-05 12:15:23,Cheque Withdrawal,5,Very fast service for Cheque Withdrawal at Warangal Main! Completed in under 10 minutes.
+FBK-5494,BR004,2026-08-17 10:02:15,Aadhaar Linking,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5495,BR006,2026-08-24 11:59:36,Withdrawal,5,Helpful staff at counter. Quick cash withdrawal without any hassle.
+FBK-5496,BR007,2026-06-05 11:54:15,Insurance,4,Appointed slot was honored immediately. No wait time for loan query.
+FBK-5497,BR002,2026-07-02 16:29:35,Withdrawal,4,Smooth process for Withdrawal. Good assistance provided by staff.
+FBK-5498,BR004,2026-06-29 11:26:38,Account Opening,1,Extremely slow processing for Account Opening. Only 2 staff available during peak morning hours.
+FBK-5499,BR001,2026-07-07 14:16:29,Deposit,5,Token system working very efficiently at Hyderabad Central.
+FBK-5500,BR004,2026-08-28 15:28:23,Deposit,5,Excellent customer support for account opening. Well explained by executive.

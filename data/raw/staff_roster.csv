@@ -1,0 +1,103 @@
+staff_id,branch_id,role,service_categories_supported,shift_start,shift_end,status,absence_dates
+STF-101,BR001,Manager,"Loans - Payment and Sanctioning,Other",09:00,17:00,Active,2026-06-04
+STF-102,BR001,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-18;2026-06-29;2026-07-02
+STF-103,BR001,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-08-26
+STF-104,BR001,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-04;2026-06-05;2026-06-12;2026-07-25;2026-08-15
+STF-105,BR001,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,
+STF-106,BR001,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-08-04;2026-08-17
+STF-107,BR001,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-08-11
+STF-108,BR001,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-08-29
+STF-109,BR001,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-06-29;2026-07-06;2026-07-24;2026-07-28;2026-08-15
+STF-110,BR001,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,
+STF-111,BR001,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-20;2026-07-06;2026-07-14
+STF-112,BR001,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-12
+STF-113,BR001,Insurance Officer,Insurance,09:00,17:00,Active,2026-07-16
+STF-114,BR001,General Employee,"Locker Issuing,Other",09:00,17:00,Active,2026-06-06;2026-07-04;2026-08-17
+STF-115,BR002,Manager,"Loans - Payment and Sanctioning,Other",09:00,17:00,Active,2026-06-11;2026-06-16;2026-08-08
+STF-116,BR002,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-07-08;2026-07-17;2026-08-13;2026-08-19;2026-08-20
+STF-117,BR002,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-06;2026-06-09
+STF-118,BR002,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-11;2026-07-08
+STF-119,BR002,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-13
+STF-120,BR002,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-07-17;2026-07-29;2026-08-21
+STF-121,BR002,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-07-16;2026-07-18
+STF-122,BR002,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-08-25
+STF-123,BR002,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-08-17
+STF-124,BR002,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-07-02;2026-08-08
+STF-125,BR002,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-07-30
+STF-126,BR002,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-08-11;2026-08-21;2026-08-28
+STF-127,BR002,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-08-27
+STF-128,BR002,Insurance Officer,Insurance,09:00,17:00,Active,2026-06-30
+STF-129,BR002,General Employee,"Locker Issuing,Other",09:00,17:00,Active,2026-07-11
+STF-130,BR003,Manager,"Loans - Payment and Sanctioning,Other",09:00,17:00,Active,2026-06-09;2026-08-12
+STF-131,BR003,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-08-03
+STF-132,BR003,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-19;2026-07-04;2026-07-29;2026-08-22
+STF-133,BR003,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-07-02;2026-08-11
+STF-134,BR003,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-07-04;2026-07-22;2026-07-25;2026-08-14
+STF-135,BR003,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-18;2026-06-29;2026-08-05
+STF-136,BR003,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-06-12;2026-06-15;2026-06-20
+STF-137,BR003,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-07-25;2026-08-27
+STF-138,BR003,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-09;2026-07-20;2026-07-30
+STF-139,BR003,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-02;2026-06-15;2026-07-03;2026-08-10;2026-08-27
+STF-140,BR003,Insurance Officer,Insurance,09:00,17:00,Active,2026-06-15;2026-07-08;2026-07-14;2026-08-22
+STF-141,BR003,General Employee,"Locker Issuing,Other",09:00,17:00,Active,2026-06-01;2026-07-04;2026-07-29
+STF-142,BR004,Manager,"Loans - Payment and Sanctioning,Other",09:00,17:00,Active,2026-06-23;2026-07-09;2026-08-04;2026-08-20
+STF-143,BR004,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-20;2026-06-26;2026-07-18;2026-08-17
+STF-144,BR004,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-01;2026-08-07
+STF-145,BR004,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-15
+STF-146,BR004,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-08;2026-07-01;2026-07-10
+STF-147,BR004,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-11;2026-08-12
+STF-148,BR004,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,
+STF-149,BR004,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-08-08
+STF-150,BR004,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-17;2026-08-24
+STF-151,BR004,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-22;2026-07-04;2026-08-07;2026-08-10
+STF-152,BR004,Insurance Officer,Insurance,09:00,17:00,Active,2026-06-26;2026-07-25;2026-08-28
+STF-153,BR004,General Employee,"Locker Issuing,Other",09:00,17:00,Active,2026-07-22;2026-08-25
+STF-154,BR005,Manager,"Loans - Payment and Sanctioning,Other",09:00,17:00,Active,2026-07-27;2026-07-28;2026-08-06
+STF-155,BR005,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-07-02
+STF-156,BR005,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-09;2026-07-14
+STF-157,BR005,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-08-15
+STF-158,BR005,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-01;2026-06-10;2026-06-29;2026-06-30;2026-08-15
+STF-159,BR005,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-30
+STF-160,BR005,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-06-05
+STF-161,BR005,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-06-10;2026-07-01;2026-08-05
+STF-162,BR005,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-08-25
+STF-163,BR005,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-17;2026-07-02;2026-07-31;2026-08-13
+STF-164,BR005,Insurance Officer,Insurance,09:00,17:00,Active,2026-06-13;2026-06-25;2026-07-23
+STF-165,BR005,General Employee,"Locker Issuing,Other",09:00,17:00,Active,2026-07-16;2026-07-23;2026-07-25;2026-07-30
+STF-166,BR006,Manager,"Loans - Payment and Sanctioning,Other",09:00,17:00,Active,2026-08-26
+STF-167,BR006,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-08
+STF-168,BR006,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-25;2026-07-02;2026-07-14
+STF-169,BR006,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-07-28;2026-08-08
+STF-170,BR006,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-24;2026-07-25
+STF-171,BR006,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-10;2026-07-02;2026-07-30
+STF-172,BR006,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-06-13;2026-08-10
+STF-173,BR006,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-06-02;2026-06-12;2026-06-22;2026-07-01;2026-07-23
+STF-174,BR006,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-08;2026-07-22;2026-08-01
+STF-175,BR006,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-01
+STF-176,BR006,Insurance Officer,Insurance,09:00,17:00,Active,2026-07-04;2026-07-07;2026-07-25;2026-07-29
+STF-177,BR006,General Employee,"Locker Issuing,Other",09:00,17:00,Active,2026-06-20;2026-06-25;2026-07-08;2026-08-24
+STF-178,BR007,Manager,"Loans - Payment and Sanctioning,Other",09:00,17:00,Active,2026-06-08;2026-08-14
+STF-179,BR007,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-08;2026-07-11;2026-08-14
+STF-180,BR007,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-08;2026-08-04;2026-08-07
+STF-181,BR007,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-09;2026-06-11;2026-06-24
+STF-182,BR007,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-16;2026-07-22
+STF-183,BR007,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-06;2026-07-02;2026-08-14;2026-08-19
+STF-184,BR007,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-07-24
+STF-185,BR007,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-06-27;2026-07-04;2026-07-11;2026-08-06;2026-08-12
+STF-186,BR007,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-07-01;2026-07-04;2026-07-21
+STF-187,BR007,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-08-22;2026-08-25
+STF-188,BR007,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-10;2026-07-11;2026-07-29
+STF-189,BR007,Insurance Officer,Insurance,09:00,17:00,Active,2026-07-29
+STF-190,BR007,General Employee,"Locker Issuing,Other",09:00,17:00,Active,2026-06-10;2026-06-13;2026-08-08;2026-08-12
+STF-191,BR008,Manager,"Loans - Payment and Sanctioning,Other",09:00,17:00,Active,2026-06-09;2026-06-17;2026-07-02;2026-07-04;2026-07-15
+STF-192,BR008,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-07-07;2026-07-27
+STF-193,BR008,Loan Officer,Loans - Payment and Sanctioning,09:00,17:00,Active,2026-06-02;2026-07-09;2026-08-07;2026-08-18
+STF-194,BR008,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-18;2026-07-04;2026-07-09;2026-08-24
+STF-195,BR008,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,
+STF-196,BR008,Teller,"Withdrawal,Deposit,Cheque Withdrawal,Money Transfer",09:00,17:00,Active,2026-06-20;2026-06-27;2026-07-07;2026-08-17
+STF-197,BR008,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-06-27;2026-08-21;2026-08-27
+STF-198,BR008,Account Officer,"Account Opening,Credit Card,Debit Card",09:00,17:00,Active,2026-07-03;2026-08-04
+STF-199,BR008,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-12
+STF-200,BR008,KYC Officer,"KYC Related,Aadhaar Linking,PAN Linking",09:00,17:00,Active,2026-06-01;2026-06-06;2026-07-06;2026-07-13
+STF-201,BR008,Insurance Officer,Insurance,09:00,17:00,Active,2026-07-04;2026-08-21
+STF-202,BR008,General Employee,"Locker Issuing,Other",09:00,17:00,Active,2026-07-27;2026-08-10
