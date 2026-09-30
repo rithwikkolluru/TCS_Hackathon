@@ -1,0 +1,7 @@
+feedback_id,recommendation_id,branch_id,timestamp,recommendation_type,predicted_value,action_taken,action_status,actual_wait_after_action,actual_queue_after_action,impact
+RFB-1001,REC-16,BR001,2026-09-30 14:50:18,STAFFING,122.5,ACCEPTED by Hyderabad Central Branch Manager,accepted,12.0,4,Wait time reduced by 35% and queue cleared.
+RFB-1002,REC-40,BR001,2026-09-30 14:51:39,STAFFING,122.5,ACCEPTED by Hyderabad Central Branch Manager,accepted,12.0,4,Wait time reduced by 35% and queue cleared.
+RFB-1003,REC-64,BR001,2026-09-30 14:52:04,STAFFING,122.5,ACCEPTED by Hyderabad Central Branch Manager,accepted,12.0,4,Wait time reduced by 35% and queue cleared.
+RFB-1004,REC-76,BR001,2026-09-30 14:53:00,STAFFING,122.5,ACCEPTED by Hyderabad Central Branch Manager,accepted,13.5,4,Wait time reduced by 35% and queue cleared.
+RFB-1005,REC-88,BR001,2026-09-30 14:58:09,STAFFING,122.5,ACCEPTED by Hyderabad Central Branch Manager,accepted,13.5,4,Wait time reduced by 35% and queue cleared.
+RFB-1006,REC-112,BR001,2026-09-30 14:58:33,STAFFING,122.5,ACCEPTED by Hyderabad Central Branch Manager,accepted,12.0,4,Wait time reduced by 35% and queue cleared.
