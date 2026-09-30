@@ -25,6 +25,15 @@ class Settings(BaseSettings):
     # CORS
     FRONTEND_URL: str = os.getenv("FRONTEND_URL", "http://localhost:3000")
 
+    # --- Hybrid AI: Local Ollama (sensitive data) ---
+    OLLAMA_BASE_URL: str = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
+    OLLAMA_MODEL: str = os.getenv("OLLAMA_MODEL", "gemma4:12b")
+
+    # --- Hybrid AI: Online Model (anonymized insights) ---
+    GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
+    GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
+    OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
+
     class Config:
         env_file = ".env"
         extra = "allow"

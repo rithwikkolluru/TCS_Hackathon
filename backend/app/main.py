@@ -29,6 +29,7 @@ from backend.app.api.live import router as live_router
 from backend.app.api.feedback import router as feedback_router
 from backend.app.api.audit import router as audit_router
 from backend.app.api.reports import router as regional_router
+from backend.app.api.hybrid_ai import router as hybrid_ai_router
 
 # Setup structured logging
 logging.basicConfig(
@@ -57,16 +58,35 @@ origins = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
     "http://localhost:5173",
-    "http://127.0.0.1:5173"
+    "http://127.0.0.1:5173",
+    "*"
 ]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=[
+        settings.FRONTEND_URL,
+        "http://localhost:3000",
+        "http://127.0.0.1:3000",
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+    ],
+    allow_origin_regex=r"^https?://.*$",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+@app.get("/", tags=["Root"])
+def root():
+    return {
+        "status": "online",
+        "service": settings.PROJECT_NAME,
+        "docs": "/docs",
+        "frontend": "http://localhost:5173",
+        "health": "/health"
+    }
+
 
 # Register API Routers
 app.include_router(auth_router, prefix="/api")
@@ -79,6 +99,7 @@ app.include_router(live_router, prefix="/api")
 app.include_router(feedback_router, prefix="/api")
 app.include_router(audit_router, prefix="/api")
 app.include_router(regional_router, prefix="/api")
+app.include_router(hybrid_ai_router, prefix="/api")
 
 
 @app.get("/health", tags=["Health"])

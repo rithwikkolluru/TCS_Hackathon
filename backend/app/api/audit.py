@@ -10,6 +10,7 @@ from backend.app.core.dependencies import require_manager_role
 router = APIRouter(prefix="/audit", tags=["Audit Logs"])
 
 
+@router.get("", response_model=ResponseEnvelope[List[AuditLogOut]])
 @router.get("/logs", response_model=ResponseEnvelope[List[AuditLogOut]])
 def get_audit_logs(
     action: Optional[str] = Query(None, description="Action filter"),
