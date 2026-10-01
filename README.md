@@ -127,11 +127,19 @@ docker compose up --build
 │   │   ├── api/             # REST Routers (auth, branches, predictions, dashboard, etc.)
 │   │   ├── core/            # Security (bcrypt, JWT), permissions (RBAC), sanitizer (PII removal)
 │   │   ├── db/              # SQLAlchemy models, database connection, Pydantic schemas
-│   │   ├── services/        # ML adapter, live service, audit service
+│   │   ├── services/        # ML adapter, live service, audit service, Ollama/Gemini privacy pipeline
 │   │   ├── websocket/       # WebSocket connection manager & alert dispatcher
 │   │   ├── config.py        # Environment settings
 │   │   └── main.py          # FastAPI application entrypoint
-│   └── tests/               # Backend unit and integration test suite
+│   └── tests/               # Backend unit, RBAC, and security integration tests
+├── frontend/                # Member 3 & 4 React + Vite + Tailwind + Recharts UI
+│   ├── src/
+│   │   ├── components/      # Glassmorphic UI components, modals, alerts
+│   │   ├── pages/           # Manager, Employee, Regional, and Analytics dashboards
+│   │   ├── context/         # Auth, Live WebSocket, and Notification contexts
+│   │   └── services/        # API client and WebSocket clients
+│   └── package.json
+├── dataset/                 # Dedicated Presentation Datasets (CSV & Documentation)
 ├── src/
 │   ├── data/                # Member 1 Synthetic generator & ETL
 │   ├── features/            # Feature engineering matrices
@@ -141,14 +149,18 @@ docker compose up --build
 │   └── utils/               # Config & explainability engine
 ├── scripts/
 │   ├── seed_database.py     # Database seeder
-│   ├── demo_scenario.py     # 18-step verification demonstration script
+│   ├── demo_scenario.py     # End-to-end verification demonstration script
 │   ├── live_event_simulator.py # Live event stream & surge generator
-│   └── run_etl.py           # ETL pipeline script
+│   └── explore_dataset.py   # CLI presentation dataset explorer
 ├── docs/
+│   ├── API_CONTRACT.md      # Complete REST API specifications
+│   ├── INTEGRATION_STATUS.md# System validation status
+│   ├── RBAC_TEST_MATRIX.md  # Security & authorization validation matrix
 │   ├── ML_INTEGRATION.md    # Member 1 ML Integration Guide
 │   └── BACKEND_INTEGRATION.md # Member 2 Backend & Real-time Integration Guide
 ├── models/                  # Trained ML model pipelines (.pkl)
 ├── reports/                 # JSON evaluation metrics & CSV analytics
+├── .github/workflows/       # GitHub Actions CI validation workflows
 ├── docker-compose.yml       # PostgreSQL, Redis, and Backend orchestration
 ├── Dockerfile               # Multi-stage container Dockerfile
 ├── requirements.txt         # All ML & Backend dependencies
